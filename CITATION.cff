@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use or discuss this work, please cite it using the metadata below."
+title: "When AI Begins to Build Itself: An Academic and Didactic Analysis of When AI Builds Itself"
+type: report
+authors:
+  - family-names: "Silva"
+    given-names: "Aridio"
+    orcid: "https://orcid.org/0009-0008-2411-6995"
+date-released: "2026-09-08"
+version: "1.0.0"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/aridiosilva/ai-builds-itself"
+abstract: >-
+  An independent academic and didactic analysis of the Anthropic Institute
+  article When AI Builds Itself. The work distinguishes AI-accelerated
+  research and development from full recursive self-improvement, evaluates
+  the evidence and its limitations, and discusses implications for scientific
+  practice, human expertise, AI safety, and governance.
+keywords:
+  - artificial intelligence
+  - autonomous agents
+  - recursive self-improvement
+  - automated AI research
+  - AI governance
+  - AI safety
+  - human oversight
+  - research automation
+# After publication, add the following fields with the DOI assigned by Zenodo:
+# doi: "10.5281/zenodo.XXXXXXXX"
+# url: "https://doi.org/10.5281/zenodo.XXXXXXXX"

@@ -1,0 +1,35 @@
+{
+  "title": "When AI Begins to Build Itself: An Academic and Didactic Analysis of When AI Builds Itself",
+  "description": "This independent bilingual report analyzes the Anthropic Institute article When AI Builds Itself. It distinguishes AI-accelerated research and development from full recursive self-improvement, evaluates the evidence and methodological limitations, and discusses implications for scientific practice, organizational design, human expertise, AI safety, and governance. Complete English and Portuguese editions are included.",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "creators": [
+    {
+      "name": "Silva, Aridio",
+      "orcid": "0009-0008-2411-6995"
+    }
+  ],
+  "publication_date": "2026-09-08",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "version": "1.0.0",
+  "keywords": [
+    "artificial intelligence",
+    "autonomous agents",
+    "recursive self-improvement",
+    "automated AI research",
+    "AI governance",
+    "AI safety",
+    "human oversight",
+    "research automation"
+  ],
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "relation": "references",
+      "resource_type": "publication-other"
+    }
+  ]
+}

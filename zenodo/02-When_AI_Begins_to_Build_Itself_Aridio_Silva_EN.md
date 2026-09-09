@@ -8,6 +8,7 @@
 
 **Author:** Aridio Silva  
 **ORCID:** https://orcid.org/0009-0008-2411-6995  
+**DOI:** https://doi.org/10.5281/zenodo.22681646  
 **Edition:** English edition prepared for open-access deposit  
 **Date:** September 2026
 

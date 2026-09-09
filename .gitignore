@@ -1,5 +1,54 @@
+# Operating-system files
 .DS_Store
 Thumbs.db
+Desktop.ini
+
+# Editor and IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary and backup files
 *.tmp
+*.temp
 *.bak
-~$*
+*.backup
+*.log
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# PDF and document-generation intermediates
+tmp/
+temp/
+output/
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Local ZIP packages
+*.zip
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+
+# Keep all publication files
+!zenodo/*.md
+!zenodo/*.pdf
+!zenodo/*.png
+
+# Keep repository metadata and checksums
+!metadata/SHA256SUMS.txt
+!metadata/zenodo-deposit-metadata.md
+!.zenodo.json
+!CITATION.cff
